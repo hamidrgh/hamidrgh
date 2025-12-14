@@ -1,0 +1,14 @@
+---
+title: "Protein ligand interaction fingerprints"
+collection: publications
+category: manuscripts
+permalink: /publication/2016-01-01-protein-ligand-interaction-fingerprints
+excerpt: 'This chapter discusses protein-ligand interaction fingerprints and their applications in molecular docking-based drug design and discovery.'
+date: 2016-01-01
+venue: 'Methods and Algorithms for Molecular Docking-Based Drug Design and Discovery'
+citation: 'A HajiEbrahimi, H Ghafouri, M Ranjbar, A Sakhteman (2016). &quot;Protein ligand interaction fingerprints.&quot; In <i>Methods and Algorithms for Molecular Docking-Based Drug Design and Discovery</i>.'
+---
+
+This chapter discusses protein-ligand interaction fingerprints and their applications in molecular docking-based drug design and discovery.
+
+Recommended citation: A HajiEbrahimi, H Ghafouri, M Ranjbar, A Sakhteman (2016). "Protein ligand interaction fingerprints." In <i>Methods and Algorithms for Molecular Docking-Based Drug Design and Discovery</i>.

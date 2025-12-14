@@ -11,3 +11,8 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem 'tzinfo-data'
+end
