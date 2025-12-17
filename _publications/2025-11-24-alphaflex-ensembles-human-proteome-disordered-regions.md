@@ -9,6 +9,10 @@ venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.11.24.690279'
 ---
 
-<a href='https://www.biorxiv.org/content/10.1101/2025.11.24.690279'>Download paper here</a>
+
+
+<div style="text-align:center">
+  <img src="{{ '/assets/images/prs_web.png' | relative_url }}" alt="Conformational ensemble illustration" style="max-width:100%;height:auto;" />
+</div>
 
 AlphaFlex provides conformational ensembles for disordered regions of the human proteome, generated using advanced computational methods.

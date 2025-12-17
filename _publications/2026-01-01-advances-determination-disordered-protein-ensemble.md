@@ -9,7 +9,6 @@ venue: 'Current Opinion in Structural Biology'
 paperurl: 'https://doi.org/10.1016/j.sbi.2025.103198'
 ---
 
-<a href='https://doi.org/10.1016/j.sbi.2025.103198'>Download paper here</a>
 
 <div style="text-align:center">
   <img src="{{ '/assets/images/cosb.jpg' | relative_url }}" alt="Conformational ensemble illustration" style="max-width:100%;height:auto;" />

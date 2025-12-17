@@ -6,9 +6,13 @@ permalink: /publication/2017-01-01-3d-qsar-studies-reversible-acetyl-cholinester
 excerpt: 'This study presents 3D-QSAR models for reversible acetylcholinesterase inhibitors using comparative molecular field analysis (CoMFA) and ligand-protein interaction fingerprints with machine learning approaches.'
 date: 2017-01-01
 venue: 'Computational Biology and Chemistry'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1476927116302008'
+paperurl: 'https://doi.org/10.1016/j.compbiolchem.2017.05.001'
 ---
 
-<a href='https://www.sciencedirect.com/science/article/pii/S1476927116302008'>Download paper here</a>
+
+
+<div style="text-align:center">
+  <img src="{{ '/assets/images/qsar.jpg' | relative_url }}" alt="Conformational ensemble illustration" style="max-width:100%;height:auto;" />
+</div>
 
 This study presents 3D-QSAR models for reversible acetylcholinesterase inhibitors using comparative molecular field analysis (CoMFA) and ligand-protein interaction fingerprints with machine learning approaches.

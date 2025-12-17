@@ -11,4 +11,8 @@ paperurl: 'https://www.scialert.net/abstract/?doi=jbs.2020.22.31'
 
 <a href='https://www.scialert.net/abstract/?doi=jbs.2020.22.31'>Download paper here</a>
 
+<div style="text-align:center">
+  <img src="{{ '/assets/images/histamin.gif' | relative_url }}" alt="Conformational ensemble illustration" style="max-width:100%;height:auto;" />
+</div>
+
 This work presents homology modeling and molecular dynamics simulations of the human histamine-2 receptor for structure-based drug design applications.

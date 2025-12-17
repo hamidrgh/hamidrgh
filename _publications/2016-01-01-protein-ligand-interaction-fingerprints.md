@@ -11,4 +11,4 @@ paperurl: 'https://www.igi-global.com/chapter/protein-ligand-interaction-fingerp
 
 This chapter discusses protein-ligand interaction fingerprints and their applications in molecular docking-based drug design and discovery.
 
-<a href='https://www.igi-global.com/chapter/protein-ligand-interaction-fingerprints/151885'>View chapter</a>
+
