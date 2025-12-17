@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I am a PhD student in Biomedical Sciences at the [University of Padova](https://www.unipd.it/), Italy, working in the [BioComputinUP](https://biocomputingup.it/) lab under the supervision of Dr. Alexander Miguel Monzon & Prof. Silvio CE Tosatto.
+Welcome to my academic website! I am currently a PhD student in Biomedical Sciences at the [University of Padova](https://www.unipd.it/), Italy, working in the [BioComputinUP](https://biocomputingup.it/) lab under the supervision of Dr. Alexander Miguel Monzon & Prof. Silvio CE Tosatto.
 
 ## Research Interests
 
@@ -16,7 +16,7 @@ My research focuses on **intrinsically disordered proteins (IDPs)** and their co
 - **Computational methods** for determining and characterizing protein conformational ensembles
 - **Bioinformatics databases** for intrinsically disordered proteins ([PED](https://proteinensemble.org/) & [DisProt](https://disprot.org/))
 - **Integration of experimental and computational approaches** to study protein disorder
-- **Structure-based drug design** and molecular docking (earlier work)
+
 
 ## Current Work
 

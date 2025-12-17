@@ -11,29 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in [Your Field], University of Padova, [Year] (expected/in progress)
-* M.S./M.Sc. in [Your Field], [University Name], [Year]
-* B.S./B.Sc. in [Your Field], [University Name], [Year]
+* Ph.D. in Biomedical Sciences, University of Padova, July 2026 (expected)
+* M.Sc. in Pharmaceutical Biotechnology, University of Padova, December 2022
+* Pharm.D, Shiraz University of Medical Sciences, September 2016
 
-Work experience
+Research Missions
 ======
-* [Start Date] - [End Date]: [Position Title]
-  * [Institution/Company Name]
-  * Duties included: [Description of responsibilities and achievements]
-  * Supervisor: [Supervisor Name]
+* **Short Term Scientific Mission** (August 2024 - September 2024): 
+  * University of Copenhagen (Denmark)
+  * Duties included: Generation of Conformational Ensembles for DisProt entries using CALVADOS
+  * Supervisor: Prof. Kresten Lindorff-Larsen
 
-* [Start Date] - [End Date]: [Position Title]
-  * [Institution/Company Name]
-  * Duties included: [Description of responsibilities and achievements]
-  * Supervisor: [Supervisor Name]
+* **Short Term Scientific Mission** (September 2025 - October 2025): 
+  * CNRS-LAAS (Toulouse-France)
+  * Duties included: Validation of Conformational Ensembles using SAXS data
+  * Supervisor: Dr. Juan Cortes
   
-Skills
+Conferences
 ======
-* [Technical Skill 1] (e.g., Python, Machine Learning, Data Analysis)
-* [Technical Skill 2]
-  * [Sub-skill or specific application]
-  * [Sub-skill or specific application]
-* [Language Skills] (e.g., English (Fluent), Italian (Native))
+* Advancing the Frontier of Intrinsically Disordered Proteins, Nov 2025 - (Padova - Italy)
+  * Talk 
+* Machine Learning for Non-globular Proteins (ML4NGP), May 2025 - (Vilnius - Lithuania)  
+  * Talk
+* Machine Learning for Non-globular Proteins (ML4NGP), May 2024 - (Thessaloniki - Greece)
+  * Poster
+* Biophysics and Biology of Intrinsically Disordered Proteins (GRC), June 2024 - (Switzerland)
+  * Poster
+* Machine Learning for Non-globular Proteins (ML4NGP), July 2023 - (Bratislava - Slovakia)
+  * Poster
+* Protein aggregation, intrinsic disorder and phase separation , April 2023 - (Porto - Portugal)
+  * Poster
+
 
 Publications
 ======
@@ -41,20 +49,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* [Add any service activities, committee memberships, leadership roles, etc.]
-* [Example: Reviewer for Journal Name]
-* [Example: Member of Professional Organization]
+
