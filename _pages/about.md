@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I am currently a PhD student in Biomedical Sciences at the [University of Padova](https://www.unipd.it/), Italy, working in the [BioComputinUP](https://biocomputingup.it/) lab under the supervision of Dr. Alexander Miguel Monzon & Prof. Silvio CE Tosatto.
+Welcome to my academic website! I am currently a PhD student in Biomedical Sciences at the [University of Padova](https://www.unipd.it/), Italy, working in the [BioComputinUP](https://biocomputingup.it/) lab under the supervision of Dr. Alexander Miguel Monzon & Prof. Silvio C.E. Tosatto.
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ My research focuses on **intrinsically disordered proteins (IDPs)** and their co
 
 ## Current Work
 
-I am currently working on developing unified frameworks for determining conformational ensembles of disordered proteins, integrating both experimental biophysical data and computational modeling approaches. My work contributes to major bioinformatics databases including:
+I am currently working on developing a pipeline to integrate SAXS data with conformational ensembles of disordered proteins. My work contributes to major IDP databases including:
 
 - **[PED](https://pedb.org)** - Protein Ensemble Database for structural ensembles of IDPs
 - **[DisProt](https://disprot.org)** - The gold standard database for intrinsically disordered proteins and regions
@@ -28,8 +28,8 @@ I am currently working on developing unified frameworks for determining conforma
 
 ## Recent Highlights
 
-- **2025**: Our review has been published in *Current Opinion in Structural Biology* on advances in disordered protein ensemble determination
-- **2025**: Our study on defining the unified frameworks for conformational ensemble determination (Accepted in Nature Methods)
+- **2026**: Our Perspective, *Toward a Unified Framework for Determining Conformational Ensembles of Disordered Proteins*, was published in *Nature Methods*
+- **2026**: I completed my PhD thesis, *In-silico study of protein structural ensembles as potential novel drug targets*
 
 
 

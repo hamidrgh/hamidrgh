@@ -46,6 +46,7 @@ Conferences
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+    {% if post.category == 'phd_thesis' %}{% continue %}{% endif %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
