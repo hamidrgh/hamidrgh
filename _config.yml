@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Hamidreza Ghafouri"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at University of Padova"
-  location         : "Italy-Padova"
-  employer         : "University of Padova"
+  bio              : "Postdoc at University of Copenhagen"
+  location         : "Denmark-Copenhagen"
+  employer         : "University of Copenhagen"
   uri              : # URL
-  email            : "hamidreza.ghafouri@studenti.unipd.it" 
+  email            : "hamidreza.ghafouri@bio.ku.dk"
 
   # Academic websites
   academia         : # URL

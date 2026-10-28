@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I am currently a PhD student in Biomedical Sciences at the [University of Padova](https://www.unipd.it/), Italy, working in the [BioComputinUP](https://biocomputingup.it/) lab under the supervision of Dr. Alexander Miguel Monzon & Prof. Silvio C.E. Tosatto.
+Welcome to my academic website! I am currently a postdoctoral researcher at the [University of Copenhagen](https://www.ku.dk/english/), Denmark, working in the lab of Prof. Kresten Lindorff-Larsen. I received my PhD in Biomedical Sciences from the [University of Padova](https://www.unipd.it/), Italy, where I worked in the [BioComputingUP](https://biocomputingup.it/) lab under the supervision of Dr. Alexander Miguel Monzon & Prof. Silvio C.E. Tosatto.
 
 ## Research Interests
 
@@ -28,6 +28,7 @@ I am currently working on developing a pipeline to integrate SAXS data with conf
 
 ## Recent Highlights
 
+- **2026**: I joined Kresten Lindorff-Larsen's lab at the University of Copenhagen as a postdoctoral researcher
 - **2026**: Our Perspective, *Toward a Unified Framework for Determining Conformational Ensembles of Disordered Proteins*, was published in *Nature Methods*
 - **2026**: I completed my PhD thesis, *In-silico study of protein structural ensembles as potential novel drug targets*
 
@@ -40,6 +41,6 @@ I have published 10+ peer-reviewed articles in leading journals including *Nucle
 ## Contact
 
 Feel free to reach out if you're interested in collaboration or have questions about my research:
-- **Email**: hamidreza.ghafouri@studenti.unipd.it
+- **Email**: hamidreza.ghafouri@bio.ku.dk
 - **Google Scholar**: [View my profile](https://scholar.google.com/citations?user=RGlfs2MAAAAJ)
 - **GitHub**: [hamidrgh](https://github.com/hamidrgh)

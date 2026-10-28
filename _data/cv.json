@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Hamidreza Ghafouri",
-    "email": "Hamidreza.ghafouri@studenti.unipd.it",
+    "email": "hamidreza.ghafouri@bio.ku.dk",
     "phone": "",
     "website": "https://hamidrgh.github.io",
-    "summary": "PhD Student at University of Padova",
+    "summary": "Postdoc at University of Copenhagen",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Padova",
-      "countryCode": "IT",
-      "region": "Veneto"
+      "city": "Copenhagen",
+      "countryCode": "DK",
+      "region": "Capital Region of Denmark"
     },
     "profiles": [
       {
@@ -30,7 +30,15 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Copenhagen",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2026",
+      "summary": "Lab of Prof. Kresten Lindorff-Larsen",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of Padova",

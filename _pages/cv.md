@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Positions
+======
+* **Postdoctoral Researcher** (2026 - present):
+  * University of Copenhagen (Denmark)
+  * Lab of Prof. Kresten Lindorff-Larsen
+
 Education
 ======
-* Ph.D. in Biomedical Sciences, University of Padova, July 2026 (expected)
+* Ph.D. in Biomedical Sciences, University of Padova, July 2026
 * M.Sc. in Pharmaceutical Biotechnology, University of Padova, December 2022
 * Pharm.D, Shiraz University of Medical Sciences, September 2016
 
